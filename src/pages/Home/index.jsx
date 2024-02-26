@@ -32,6 +32,16 @@ export function Home() {
             ]
           }}
           />
+          <Note data={{
+            title: "Teste Felipe",
+            tags: [
+              { id: '1', name: 'felipe' },
+              { id: '2', name: 'giusti' },
+              { id: '3', name: 'teste' },
+              { id: '4', name: 'almoço' }
+            ]
+          }}
+          />
         </Section>
       </Content>
       <NewNote>
