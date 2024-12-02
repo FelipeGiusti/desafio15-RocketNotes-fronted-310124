@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { api } from "../../../../../../8 - BackEnd/desafio16-RocketNotes-backend-180324/src/services/api"
+import { api } from "../../../../desafio16-RocketNotes-backend-180324/src/services/api.js"
 
 import { Container, Form, Background } from './style.js'
 import { Link, useNavigate } from 'react-router-dom'
